@@ -4,6 +4,7 @@ Colab link for project-
     https://colab.research.google.com/drive/1lQ74DvsYSKoA1OQXyJzVCrBfA79vnZAM#scrollTo=BuP4i9JWMW62
 
 
+
 Diwali Sales Analysis (Python EDA)
 - Overview
 
@@ -31,7 +32,7 @@ Seaborn
 
 Colab
 
- -Project Steps
+ - Project Steps
 
 1. Data Loading using Pandas
 
